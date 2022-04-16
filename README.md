@@ -22,4 +22,5 @@
 | Learning Rate | It calibrates the size of the adjustment according to the current block size. | Ethereum Blockchain | https://arxiv.org/pdf/2110.04753.pdf |
 | Block Size | Blocks are bounded in size. Each block has a target size of 15 million gas but the size of blocks will increase or decrease in accordance with network demands, up until the block limit of 30 million gas. | Ethereum Blockchain | https://ethereum.org/en/developers/docs/blocks/ |
 | Mempool | Mempool is where transactions stay after sent by users and before being added to a block by miners. | Ethereum Blockchain | https://arxiv.org/pdf/2201.05574.pdf |
-
+| Causal Inference | Causal inference with time-varying treatments involves the contrast of counterfactual outcomes under two or more treatment strategies. | Ethereum Blockchain | https://www.sciencedirect.com/science/article/pii/B9780080970868421008 |
+| Adversarial Attack | The adversary exploits adversarial network delay and strategic voting by a vanishing fraction of adversarial validators to stall the protocol indefinitely. | Ethereum Blockchain | https://arxiv.org/pdf/2110.10086.pdf |
