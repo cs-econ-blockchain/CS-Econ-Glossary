@@ -11,3 +11,5 @@
 | Batch Auction | A uniform-price sealed-bid double auctions conducted at frequent but discrete time intervals. | Economics | https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.104.5.418  |
 | Static First-price Auction | Bidders submit simultaneous “sealed bids” to the seller. The terminology comes from the original format for such auctions, in which bids were written down and provided in sealed envelopes to the seller, who would then open them all together. The highest bidder wins the object and pays the value of her bid. | Economics | https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch09.pdf |
 | Transaction Fee | Transactions require a fee that users have to pay for the computation, and must be mined to become valid. | Ethereum Blockchain | https://ethereum.org/en/developers/docs/transactions/ | 
+| Transaction Fee Mechanism (TFM) | A transaction fee mechanism (TFM) is a triple (x, p, q) in which x is a feasible allocation rule, p is a payment rule, and q is a burning rule. | Ethereum Blockchain | https://timroughgarden.org/papers/eip1559.pdf |
+
