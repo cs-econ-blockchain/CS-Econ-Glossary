@@ -20,4 +20,6 @@
 | Miner-User Side Contract Proofness (SCP) | No coalition of the miner and up to certain amount of users can increase their joint utility through any deviation. | Ethereum Blockchain | https://arxiv.org/pdf/2111.03151.pdf |
 | Security Requirements | The three dimensions that a desirable/dream transaction fee mechanism should satisfy. | Ethereum Blockchain | https://arxiv.org/pdf/2111.03151.pdf |
 | Learning Rate | It calibrates the size of the adjustment according to the current block size. | Ethereum Blockchain | https://arxiv.org/pdf/2110.04753.pdf |
+| Block Size | Blocks are bounded in size. Each block has a target size of 15 million gas but the size of blocks will increase or decrease in accordance with network demands, up until the block limit of 30 million gas. | Ethereum Blockchain | https://ethereum.org/en/developers/docs/blocks/ |
+| Mempool | Mempool is where transactions stay after sent by users and before being added to a block by miners. | Ethereum Blockchain | https://arxiv.org/pdf/2201.05574.pdf |
 
