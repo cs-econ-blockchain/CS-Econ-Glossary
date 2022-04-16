@@ -1,5 +1,7 @@
 # CS-Econ-Glossary
 
+This markdown file provides all the important jargon that all the researchers should understand and pay attention to in this interdisciplinary project.
+
 |**Jargon**|**Definitions**|**Category**| **Source**| 
 |------|---------------------------|-------|-----|
 | Reinforcement Learning | Reinforcement learning is the problem faced by an agent that must learn behavior through trial-and-error interactions with a dynamic environment. | Computer Science | https://www.jair.org/index.php/jair/article/view/10166 |
