@@ -17,4 +17,7 @@
 | Waiting Time | The difference between the time when we first observe the transaction in mempool and when the transaction is mined. | Ethereum Blockchain | https://arxiv.org/pdf/2201.05574.pdf |
 | User Incentive Compatibility (UIC) | Assuming that the miner implements the mechanism honestly, then following the honest bidding strategy or truthful bidding should be a dominant strategy for the users. | Ethereum Blockchain | https://arxiv.org/pdf/2111.03151.pdf |
 | Miner Incentive Compatibility (MIC) | A miner’s dominant strategy should be to implement the prescribed mechanism faithfully. | Ethereum Blockchain | https://arxiv.org/pdf/2111.03151.pdf | 
+| Miner-User Side Contract Proofness (SCP) | No coalition of the miner and up to certain amount of users can increase their joint utility through any deviation. | Ethereum Blockchain | https://arxiv.org/pdf/2111.03151.pdf |
+| Security Requirements | The three dimensions that a desirable/dream transaction fee mechanism should satisfy. | Ethereum Blockchain | https://arxiv.org/pdf/2111.03151.pdf |
+| Learning Rate | It calibrates the size of the adjustment according to the current block size. | Ethereum Blockchain | https://arxiv.org/pdf/2110.04753.pdf |
 
