@@ -10,3 +10,5 @@ Authors: Ayelet Lotem, Sarah Azouvi, Patrick McCorry, Aviv Zohar
 | Robustness |  a term captures the security of the protocol against either attack | This paper |
 | Congestion Robust | when given an adversary with a relative computational power $\alpha$, his probability of winning a congestion attack, i.e., of successfully manipulating a period of $n$ blocks into a congested period is less than $q$ | This paper |
 ｜ Uncongestion Robust | when given an adversary with a relative computational power $\alpha$, his probability of winning an uncongestion attack, i.e., of successfully manipulating a period of $n$ blocks into an uncongested period is less than $q$ | This paper |
+| Efficiency of Protocols | Concise proof size and Concise refresh information | This paper |
+
